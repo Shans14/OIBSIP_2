@@ -1,0 +1,58 @@
+body{
+    background-color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 0;
+    padding: auto;
+    display: block;
+    height: auto;
+
+}
+#title{
+    color: white;
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:gray;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+}
+img{
+  width: 50%;
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+#caption{
+    color: darkgray;
+    text-align: center;
+    font-family::'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+#Timeline-info{
+    text-align: center;
+    color: lightgray;
+    background-color: gray;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#timeline{
+text-align: left;
+border-radius: 5px;
+padding: 20px;
+margin: 10px;
+max-width: fit-content;
+background-color: gray;
+
+}
+#link{
+
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgray;
+}
